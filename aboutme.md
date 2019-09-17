@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: I guess this is a description of myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tri Wahyu Utomo. I am currently studying bachelor degree in Electrical Engineering, Universitas Gadjah Mada.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
 What else do you need?
 
