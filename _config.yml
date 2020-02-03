@@ -21,6 +21,8 @@ description: Still a student
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Tutorials:
+    - PyTorch: "https://pytorch.org/tutorials/"
   Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -71,18 +73,7 @@ social-network-links:
   github: triwahyuu
   facebook: triwahyu34
   instagram: triwahyu_u
-  # twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  linkedin: tri-wahyu-utomo-816b13b1
 
 # Select which share links to show in posts
 share-links-active:
